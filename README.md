@@ -6,4 +6,5 @@
 Para rodar esse projeto na sua máquina, utilize um navegador (browser)
 ```
 HTML5
+Visual Studio Code
 ```
